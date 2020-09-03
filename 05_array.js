@@ -97,5 +97,8 @@ const sumAll = people
 console.log(people);
 console.log(sumAll);
 
-
+// Итерации по массиву
+nums.forEach((num) =>{
+    console.log(num);
+})
 
